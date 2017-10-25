@@ -4,13 +4,14 @@ return $('p');
 }
 
 function lastImageSelector() {
-return $('img:last-child')
+return $('img:last-child');
 }
 
 function ninjaBabySelector() {
-return $('img#baby-ninja')
+return $('img#baby-ninja');
 }
 
 function divSelector() {
 return $('div.pics');
 }
+
