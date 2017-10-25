@@ -10,3 +10,6 @@ return $('img:last-child')
 function ninjaBabySelector() {
 return $('img#baby-ninja')
 }
+function divSelector() {
+  
+}
